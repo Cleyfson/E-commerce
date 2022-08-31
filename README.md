@@ -1,6 +1,6 @@
 # E-commerce
 
-A project developed in C++ language, for one of the disciplines of the computer science course. 
+A project developed in C++ language, for one of the disciplines of the computer science course at UFMG. 
 The idea of the program is to replicate a smartphone sales process.
 
 This process can be simulated through the following input commands to the program.
